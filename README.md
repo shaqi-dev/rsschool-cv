@@ -1,1 +1,1 @@
-# https://Shaqi-dev.github.io/rsschool-cv/cv
+# https://Shaqi-dev.github.io/rsschool-cv/
