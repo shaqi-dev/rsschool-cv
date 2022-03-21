@@ -22,7 +22,8 @@ In my free time, I mostly trade cryptocurrencies, make music, and play computer 
 - **Framework:** React JS + Redux
 - **Tools:** Gulp, Webpack, Git/GitHub, Figma/Photoshop
 # Code Example
-``
+**Write Number in Expanded Form:** You will be given a number and you will need to return it as a string in Expanded Form.
+```
 function expandedForm(num) {
     if (isNaN(num)) return NaN;
     
@@ -35,4 +36,4 @@ function expandedForm(num) {
 
     return result.join(' + ');
 }
-``
+```
