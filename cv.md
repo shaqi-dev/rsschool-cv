@@ -21,6 +21,7 @@ In my free time, I mostly trade cryptocurrencies, make music, and play computer 
 - **JavaScript:** Vanilla JS, ES6, JQuery
 - **Framework:** React JS + Redux
 - **Tools:** Gulp, Webpack, Git/GitHub, Figma/Photoshop
+- **Additional:** UX/UI Design
 # Code Example
 **Write Number in Expanded Form:** You will be given a number and you will need to return it as a string in Expanded Form.
 ```
@@ -37,3 +38,9 @@ function expandedForm(num) {
     return result.join(' + ');
 }
 ```
+## Courses
+- **Udemy:**
+- - [WEB-Debeloper 2022](https://www.udemy.com/course/webdeveloper/) (complete)
+- - [A complete JavaScript + React course](https://www.udemy.com/course/javascript_full/) (complete)
+- **RS-School**
+- - [JavaScript/Front-end 2022Q1](https://rs.school/js/) (in process...)
