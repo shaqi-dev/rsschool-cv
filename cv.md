@@ -1,4 +1,5 @@
 # Vladislav Zubakin
+## Junior Frontend Developer
 ## Contacts
 - **Phone:** +375 (33) 329-67-19
 - **E-mail:** shaqimusic@gmail.com
