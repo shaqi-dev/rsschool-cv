@@ -39,8 +39,8 @@ function expandedForm(num) {
 }
 ```
 ## Courses
-- **Udemy:**
-- - [WEB-Debeloper 2022](https://www.udemy.com/course/webdeveloper/) (complete)
-- - [A complete JavaScript + React course](https://www.udemy.com/course/javascript_full/) (complete)
-- **RS-School**
+**Udemy:**
+- [WEB-Debeloper 2022](https://www.udemy.com/course/webdeveloper/) (complete)
+- [A complete JavaScript + React course](https://www.udemy.com/course/javascript_full/) (complete)
+**RS-School**
 - - [JavaScript/Front-end 2022Q1](https://rs.school/js/) (in process...)
