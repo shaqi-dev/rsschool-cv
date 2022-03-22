@@ -5,7 +5,7 @@
 - **E-mail:** shaqimusic@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vladislavzubakin
 - **GitHub:** https://github.com/Shaqi-dev
-- **Discord Nickname:** Vladislav Zubakin (@Shaqi-dev)
+- **Discord:** Vladislav Zubakin (@Shaqi-dev)
 - **Telegram:** [@shaaqi](https://t.me/shaaaqi)
 - **Skype:** live:c202c05811a8a042
 ## About Me
