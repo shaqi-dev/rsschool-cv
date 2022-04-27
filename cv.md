@@ -19,6 +19,7 @@ In my free time, I mostly trading cryptocurrencies, making music or playing comp
 
 **My strengths:**
 - Fast learning
+- Googling
 - Teamwork
 - Attention to detail
 ## Skills
