@@ -19,6 +19,7 @@ At the moment I am fully learning modern Front-end development, and looking for 
 In my free time, I mostly trading cryptocurrencies, making music or playing computer games with my friends.
 
 **My strengths:**
+- Googling
 - Fast learning
 - Teamwork
 - Attention to detail
